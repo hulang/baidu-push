@@ -1,0 +1,27 @@
+{
+    "name": "hulang/baidu-push",
+    "description": "百度推送",
+    "keywords": [
+        "百度推送",
+        "百度api推送",
+        "百度站长推送",
+        "百度收录推送",
+        "普通收录"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hualng",
+            "email": "hualngfy@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "hulang\\": "src/"
+        }
+    }
+}
